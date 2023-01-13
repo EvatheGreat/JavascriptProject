@@ -1,0 +1,16 @@
+var first="Hello! Please closely inspect the numbers that appear under!";
+var a=10;
+var b=5;
+var c=a+b;
+var d=a/b;
+var e=a-b;
+var f=a*b;
+var last="Bye! Have a good day!";
+console.log(first);
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+console.log(f);
+console.log(last);
